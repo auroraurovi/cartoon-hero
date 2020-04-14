@@ -1,0 +1,61 @@
+body{
+	font-family: Elvetica, Arial, sans-serif;
+	line-height: 40px
+}
+
+
+
+header{
+	background-color: #A9D0F5;
+	text-align:center;
+	line-height: 30px;
+
+
+}
+
+h1,h2{
+	font-family: 'Gotu', sans-serif;
+	font-size:40px;
+}
+
+header h1{
+       color: blue;
+
+}
+header img{
+	border-radius: 150px;
+	width: 500px;
+	border: 5px solid #5882FA;
+}
+
+main img{ 
+	max-width: 500px;
+
+}
+
+main{
+	max-width: 600px;
+	margin:0 auto;
+}
+
+a{
+	color: #088A29;
+}
+
+a:hover{
+     color:white;
+     background-color: #B40404; 
+}
+
+footer{
+	background-color: #A9D0F5;
+	text-align:center;
+	line-height: 30px;
+}
+
+
+
+
+
+
+
